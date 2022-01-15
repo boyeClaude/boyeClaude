@@ -1,7 +1,7 @@
 ### Hi 👋 I am Frederic Boye
 
 A frontend Developer from **Ivory Coast**.  Always working on some projects or learning something new!
-Things I am currently experimenting with : reactjs , angular , typescript, ...
+Things I am currently experimenting with :Angular , Typescript
 working to sharp my skills everyday in order to become a skilled Frontend Engineer  💸 and an Open Source Contributor ❤️.
 
 Here are some ideas to get you started:
