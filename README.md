@@ -7,7 +7,6 @@ working to sharp my skills everyday in order to become a skilled Frontend Engine
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some web apps
-- 🌱 I’m currently learning nodejs, react, algorithms, RestApi, GraphQl and figma
 - 📫 How to reach me: boye.claude@gmail.com
 
 ### 🛠️ Languages and Tools:
