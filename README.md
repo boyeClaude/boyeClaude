@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 |-|
 | [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3C78A9&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/docs/handbook/intro.html)
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) 
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 
