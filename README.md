@@ -1,6 +1,6 @@
 ### Hi 👋 I am Frederic Boye
 
-A Frontend Engineer focusing on building web apps. I have analytical skills and a focus on delivering original and effective web solutions.
+A Web Developer focusing on building web apps. I have analytical skills and a focus on delivering original and effective web solutions.
 Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-fredericboye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericboye/)](https://www.linkedin.com/in/fredericboye/)
