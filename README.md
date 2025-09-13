@@ -1,7 +1,6 @@
 ### Hi 👋 I am Frederic Boye
-
-A Web Developer focusing on building web apps. I have analytical skills and a focus on delivering original and effective web solutions.
-Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+Aspiring Cloud Support Associate (Azure) and Python Developer. Currently expanding my skills in cloud technologies and Python development, building on my web development foundation.
+Always eager to collaborate on projects and connect with fellow developers. Feel free to reach out here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-fredericboye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericboye/)](https://www.linkedin.com/in/fredericboye/)
 [![Gmail Badge](https://img.shields.io/badge/-boye.claude@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boye.claude@gmail.com)](mailto:boye.claude@gmail.com)
@@ -9,10 +8,10 @@ Always open to collaborating on projects and innovative/disruptive ideas. Feel f
 
 
 ### ⚡ Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure)
+
 
 
 
