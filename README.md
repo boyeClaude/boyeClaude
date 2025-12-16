@@ -1,5 +1,5 @@
 ### Hi 👋 I am Frederic Boye
-Aspiring Cloud Support Associate (Azure) and Python Developer. Currently expanding my skills in cloud technologies and Python development, building on my web development foundation.
+Aspiring Cloud Support Associate and Python Developer. Currently expanding my skills in cloud technologies and Python development, building on my web development foundation.
 Always eager to collaborate on projects and connect with fellow developers. Feel free to reach out here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-fredericboye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericboye/)](https://www.linkedin.com/in/fredericboye/)
