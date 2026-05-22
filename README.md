@@ -10,7 +10,7 @@ Always eager to collaborate on projects and connect with fellow developers. Feel
 ### ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure)
+![AWS](https://img.shields.io/badge/-Aws-black?style=flat-square&logo=aws)
 
 
 
